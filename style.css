@@ -1,0 +1,15 @@
+img {
+    position: relative;
+    left:400px
+  }
+  h1 {
+    position: relative;
+    left:550px
+  }
+  ul {
+    position: relative;
+    left:380px;
+    display: flex;
+    gap: 130px;
+    font-size: 18px;
+  }
